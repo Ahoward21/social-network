@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "social-network",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahoward21/social-network.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahoward21/social-network/issues"
+  },
+  "homepage": "https://github.com/Ahoward21/social-network#readme",
+  "description": ""
+}
