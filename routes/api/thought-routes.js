@@ -23,12 +23,9 @@ router
 router
     .route('/:thoughtId')
     .get(getThoughtById)
-    .put(updateThought);
-
-// /api/thoughts/:userId/:ThoughtId
-router  
-    .route('/:userId/:thoughtid')
+    .put(updateThought)
     .delete(deleteThought);
+
 
 // /api/thoughts/:thoughtId/reactions
 router
