@@ -29,7 +29,7 @@ npm start
 
 ## Demo
 Walkthrough video
-https://drive.google.com/file/d/1G9DZLihi-TGM7UvlDXw2MhpPv8i9h0-g/view
+
 
 
 
